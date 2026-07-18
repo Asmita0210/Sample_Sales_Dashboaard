@@ -13,7 +13,6 @@ This project showcases how to handle custom dataset preparation, feature derivat
 4.  **Net Sales Distribution (Histogram):** Plots the density distribution of net sales, complete with an automated mean indicator line.
 5.  **Variance vs. Target (Positive/Negative Bar Chart):** Visualizes performance deltas using conditional color schemes (positive performance vs. negative variance).
 
-![Sample Sales Dashboard](plots/sales_dashboard.png)
 <img src="plots/sales_dashboard.png" alt="Sales Dashboard Output" width="600"/>
 ---
 
